@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott D. Nelson | BOLTS @ CU Boulder</title>
-    <link>https://yzhang34.github.io/author/scott-d.-nelson/</link>
-      <atom:link href="https://yzhang34.github.io/author/scott-d.-nelson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://boltslab.github.io/author/scott-d.-nelson/</link>
+      <atom:link href="https://boltslab.github.io/author/scott-d.-nelson/index.xml" rel="self" type="application/rss+xml" />
     <description>Scott D. Nelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Contents © 2025 Yide Zhang </copyright><lastBuildDate>Mon, 19 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yzhang34.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
+      <url>https://boltslab.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
       <title>Scott D. Nelson</title>
-      <link>https://yzhang34.github.io/author/scott-d.-nelson/</link>
+      <link>https://boltslab.github.io/author/scott-d.-nelson/</link>
     </image>
     
     <item>
       <title>Label-free intraoperative histology of bone tissue via deep-learning-assisted ultraviolet photoacoustic microscopy</title>
-      <link>https://yzhang34.github.io/publication/j18-2022-nbme/</link>
+      <link>https://boltslab.github.io/publication/j18-2022-nbme/</link>
       <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j18-2022-nbme/</guid>
+      <guid>https://boltslab.github.io/publication/j18-2022-nbme/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -35,9 +35,9 @@
     
     <item>
       <title>Label-free ultraviolet photoacoustic histology via deep learning for rapid intraoperative diagnosis of bone cancer</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c20-2022-pw1/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c20-2022-pw1/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c20-2022-pw1/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c20-2022-pw1/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

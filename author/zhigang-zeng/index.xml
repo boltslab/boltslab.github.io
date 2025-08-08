@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhigang Zeng | BOLTS @ CU Boulder</title>
-    <link>https://yzhang34.github.io/author/zhigang-zeng/</link>
-      <atom:link href="https://yzhang34.github.io/author/zhigang-zeng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://boltslab.github.io/author/zhigang-zeng/</link>
+      <atom:link href="https://boltslab.github.io/author/zhigang-zeng/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhigang Zeng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Contents © 2025 Yide Zhang </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yzhang34.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
+      <url>https://boltslab.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
       <title>Zhigang Zeng</title>
-      <link>https://yzhang34.github.io/author/zhigang-zeng/</link>
+      <link>https://boltslab.github.io/author/zhigang-zeng/</link>
     </image>
     
     <item>
       <title>Memory analysis for memristors and memristive recurrent neural networks</title>
-      <link>https://yzhang34.github.io/publication/j2-2020-jas/</link>
+      <link>https://boltslab.github.io/publication/j2-2020-jas/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j2-2020-jas/</guid>
+      <guid>https://boltslab.github.io/publication/j2-2020-jas/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -35,9 +35,9 @@
     
     <item>
       <title>Exponential adaptive lag synchronization of memristive neural networks via fuzzy method and applications in pseudo random number generators</title>
-      <link>https://yzhang34.github.io/publication/j1-2014-tfs/</link>
+      <link>https://boltslab.github.io/publication/j1-2014-tfs/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j1-2014-tfs/</guid>
+      <guid>https://boltslab.github.io/publication/j1-2014-tfs/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -56,9 +56,9 @@
     
     <item>
       <title>Implementation of memristive neural networks with spike-rate-dependent plasticity synapse</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c1-2014-ijcnn/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c1-2014-ijcnn/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c1-2014-ijcnn/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c1-2014-ijcnn/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

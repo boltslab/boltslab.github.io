@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FLIM | BOLTS @ CU Boulder</title>
-    <link>https://yzhang34.github.io/tag/flim/</link>
-      <atom:link href="https://yzhang34.github.io/tag/flim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://boltslab.github.io/tag/flim/</link>
+      <atom:link href="https://boltslab.github.io/tag/flim/index.xml" rel="self" type="application/rss+xml" />
     <description>FLIM</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Contents © 2025 Yide Zhang </copyright><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yzhang34.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
+      <url>https://boltslab.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
       <title>FLIM</title>
-      <link>https://yzhang34.github.io/tag/flim/</link>
+      <link>https://boltslab.github.io/tag/flim/</link>
     </image>
     
     <item>
       <title>Editorial: Phasor analysis for fluorescence lifetime data</title>
-      <link>https://yzhang34.github.io/publication/j27-2024-fbinf/</link>
+      <link>https://boltslab.github.io/publication/j27-2024-fbinf/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j27-2024-fbinf/</guid>
+      <guid>https://boltslab.github.io/publication/j27-2024-fbinf/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -35,9 +35,9 @@
     
     <item>
       <title>Instant FLIM enables 4D in vivo lifetime imaging of intact and injured zebrafish and mouse brains</title>
-      <link>https://yzhang34.github.io/publication/j15-2021-optica/</link>
+      <link>https://boltslab.github.io/publication/j15-2021-optica/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j15-2021-optica/</guid>
+      <guid>https://boltslab.github.io/publication/j15-2021-optica/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -56,9 +56,9 @@
     
     <item>
       <title>Convolutional neural network denoising in fluorescence lifetime imaging microscopy (FLIM)</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c19-2021-pw3/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c19-2021-pw3/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c19-2021-pw3/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c19-2021-pw3/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -79,9 +79,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Overcoming the fundamental limitation of frequency-domain fluorescence lifetime imaging microscopy spatial resolution</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c17-2021-pw1/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c17-2021-pw1/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c17-2021-pw1/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c17-2021-pw1/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -102,9 +102,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Machine learning for faster and smarter fluorescence lifetime imaging microscopy</title>
-      <link>https://yzhang34.github.io/publication/j13-2020-jphys/</link>
+      <link>https://boltslab.github.io/publication/j13-2020-jphys/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j13-2020-jphys/</guid>
+      <guid>https://boltslab.github.io/publication/j13-2020-jphys/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -123,9 +123,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Automatic segmentation of intravital fluorescence microscopy images by K-means clustering of FLIM phasors</title>
-      <link>https://yzhang34.github.io/publication/j11-2019-ol/</link>
+      <link>https://boltslab.github.io/publication/j11-2019-ol/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j11-2019-ol/</guid>
+      <guid>https://boltslab.github.io/publication/j11-2019-ol/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -144,9 +144,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Three-dimensional deep tissue multiphoton frequency-domain fluorescence lifetime imaging microscopy via phase multiplexing and adaptive optics</title>
-      <link>https://yzhang34.github.io/publication/c14-2019-pw3/</link>
+      <link>https://boltslab.github.io/publication/c14-2019-pw3/</link>
       <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/c14-2019-pw3/</guid>
+      <guid>https://boltslab.github.io/publication/c14-2019-pw3/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -168,9 +168,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Super-resolution multiphoton frequency-domain fluorescence lifetime imaging microscopy by generalized stepwise optical saturation (GSOS)</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c13-2019-pw2/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c13-2019-pw2/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c13-2019-pw2/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c13-2019-pw2/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -191,9 +191,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Generalized stepwise optical saturation enables super-resolution fluorescence lifetime imaging microscopy</title>
-      <link>https://yzhang34.github.io/publication/j9-2018-boe/</link>
+      <link>https://boltslab.github.io/publication/j9-2018-boe/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j9-2018-boe/</guid>
+      <guid>https://boltslab.github.io/publication/j9-2018-boe/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -212,9 +212,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Super-resolution and high-speed quantitative multiphoton microscopy</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c11-2018-harper/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c11-2018-harper/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c11-2018-harper/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c11-2018-harper/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -236,9 +236,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Super-resolution fluorescence microscopy by stepwise optical saturation</title>
-      <link>https://yzhang34.github.io/publication/j8-2018-boe/</link>
+      <link>https://boltslab.github.io/publication/j8-2018-boe/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j8-2018-boe/</guid>
+      <guid>https://boltslab.github.io/publication/j8-2018-boe/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -256,9 +256,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Description of deep saturated excitation multiphoton microscopy for super-resolution imaging</title>
-      <link>https://yzhang34.github.io/publication/j7-2017-josa/</link>
+      <link>https://boltslab.github.io/publication/j7-2017-josa/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j7-2017-josa/</guid>
+      <guid>https://boltslab.github.io/publication/j7-2017-josa/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -277,9 +277,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Doubling the sensitivity of multiphoton frequency-domain fluorescence lifetime images</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c8-2017-cleo2/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c8-2017-cleo2/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c8-2017-cleo2/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c8-2017-cleo2/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -300,9 +300,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Silica-coated ruthenium-complex nanoprobes for two-photon oxygen microscopy in biological media</title>
-      <link>https://yzhang34.github.io/publication/j6-2017-ome/</link>
+      <link>https://boltslab.github.io/publication/j6-2017-ome/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j6-2017-ome/</guid>
+      <guid>https://boltslab.github.io/publication/j6-2017-ome/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -321,9 +321,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Super-sensitivity and super-resolution multiphoton fluorescence lifetime imaging microscopy</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c6-2017-ndnano/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c6-2017-ndnano/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c6-2017-ndnano/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c6-2017-ndnano/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -345,9 +345,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Saturation-compensated measurements for fluorescence lifetime imaging microscopy</title>
-      <link>https://yzhang34.github.io/publication/j5-2017-ol/</link>
+      <link>https://boltslab.github.io/publication/j5-2017-ol/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j5-2017-ol/</guid>
+      <guid>https://boltslab.github.io/publication/j5-2017-ol/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -366,9 +366,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Super-sensitivity multiphoton frequency-domain fluorescence lifetime imaging microscopy</title>
-      <link>https://yzhang34.github.io/publication/j4-2016-oe/</link>
+      <link>https://boltslab.github.io/publication/j4-2016-oe/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j4-2016-oe/</guid>
+      <guid>https://boltslab.github.io/publication/j4-2016-oe/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -387,9 +387,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Investigation of signal-to-noise ratio in frequency-domain multiphoton fluorescence lifetime imaging microscopy</title>
-      <link>https://yzhang34.github.io/publication/j3-2016-josa/</link>
+      <link>https://boltslab.github.io/publication/j3-2016-josa/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j3-2016-josa/</guid>
+      <guid>https://boltslab.github.io/publication/j3-2016-josa/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -408,9 +408,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Highly stable two-photon oxygen imaging probe based on a ruthenium-complex encapsulated in a silica-coated nanomicelle</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c5-2016-cleo/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c5-2016-cleo/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c5-2016-cleo/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c5-2016-cleo/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -431,9 +431,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Theoretical analysis of the signal-to-noise ratio of two-photon oxygen imaging probes</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c4-2016-biomed/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c4-2016-biomed/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c4-2016-biomed/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c4-2016-biomed/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -454,9 +454,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>High-resolution frequency-domain multiphoton fluorescence lifetime imaging microscopy</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c3-2016-harper/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c3-2016-harper/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c3-2016-harper/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c3-2016-harper/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -477,9 +477,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>On increasing the imaging rate of frequency-domain multiphoton fluorescence lifetime imaging microscopy</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c2-2015-minisym/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c2-2015-minisym/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c2-2015-minisym/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c2-2015-minisym/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

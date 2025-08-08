@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | BOLTS @ CU Boulder</title>
-    <link>https://yzhang34.github.io/talk/</link>
-      <atom:link href="https://yzhang34.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://boltslab.github.io/talk/</link>
+      <atom:link href="https://boltslab.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Contents © 2025 Yide Zhang </copyright><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yzhang34.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
+      <url>https://boltslab.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://yzhang34.github.io/talk/</link>
+      <link>https://boltslab.github.io/talk/</link>
     </image>
     
     <item>
       <title>Ultrafast single-shot 3D photoacoustic tomography in vivo using a single-element detector</title>
-      <link>https://yzhang34.github.io/talk/t3-2024-pw/</link>
+      <link>https://boltslab.github.io/talk/t3-2024-pw/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/talk/t3-2024-pw/</guid>
+      <guid>https://boltslab.github.io/talk/t3-2024-pw/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -36,9 +36,9 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     
     <item>
       <title>Ultrafast phase imaging of propagating current flows in myelinated axons and electromagnetic pulses in dielectrics</title>
-      <link>https://yzhang34.github.io/talk/t2-2023-pw/</link>
+      <link>https://boltslab.github.io/talk/t2-2023-pw/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/talk/t2-2023-pw/</guid>
+      <guid>https://boltslab.github.io/talk/t2-2023-pw/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -58,9 +58,9 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     
     <item>
       <title>Super-resolution multiphoton frequency-domain fluorescence lifetime imaging microscopy by generalized stepwise optical saturation (GSOS)</title>
-      <link>https://yzhang34.github.io/talk/t1-2019-pw/</link>
+      <link>https://boltslab.github.io/talk/t1-2019-pw/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/talk/t1-2019-pw/</guid>
+      <guid>https://boltslab.github.io/talk/t1-2019-pw/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

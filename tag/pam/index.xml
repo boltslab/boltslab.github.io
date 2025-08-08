@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PAM | BOLTS @ CU Boulder</title>
-    <link>https://yzhang34.github.io/tag/pam/</link>
-      <atom:link href="https://yzhang34.github.io/tag/pam/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://boltslab.github.io/tag/pam/</link>
+      <atom:link href="https://boltslab.github.io/tag/pam/index.xml" rel="self" type="application/rss+xml" />
     <description>PAM</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Contents © 2025 Yide Zhang </copyright><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yzhang34.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
+      <url>https://boltslab.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
       <title>PAM</title>
-      <link>https://yzhang34.github.io/tag/pam/</link>
+      <link>https://boltslab.github.io/tag/pam/</link>
     </image>
     
     <item>
       <title>Optical-resolution parallel ultraviolet photoacoustic microscopy for slide-free histology</title>
-      <link>https://yzhang34.github.io/publication/j31-2024-sa/</link>
+      <link>https://boltslab.github.io/publication/j31-2024-sa/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j31-2024-sa/</guid>
+      <guid>https://boltslab.github.io/publication/j31-2024-sa/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -35,9 +35,9 @@
     
     <item>
       <title>Needle-shaped beam optical-resolution photoacoustic microscopy with an extended depth of field</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c21-2023-pw1/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c21-2023-pw1/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c21-2023-pw1/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c21-2023-pw1/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -58,9 +58,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Optical-resolution photoacoustic microscopy with a needle-shaped beam</title>
-      <link>https://yzhang34.github.io/publication/j19-2022-np/</link>
+      <link>https://boltslab.github.io/publication/j19-2022-np/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j19-2022-np/</guid>
+      <guid>https://boltslab.github.io/publication/j19-2022-np/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -79,9 +79,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Label-free intraoperative histology of bone tissue via deep-learning-assisted ultraviolet photoacoustic microscopy</title>
-      <link>https://yzhang34.github.io/publication/j18-2022-nbme/</link>
+      <link>https://boltslab.github.io/publication/j18-2022-nbme/</link>
       <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j18-2022-nbme/</guid>
+      <guid>https://boltslab.github.io/publication/j18-2022-nbme/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -100,9 +100,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Label-free ultraviolet photoacoustic histology via deep learning for rapid intraoperative diagnosis of bone cancer</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c20-2022-pw1/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c20-2022-pw1/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c20-2022-pw1/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c20-2022-pw1/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -123,9 +123,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Snapshot photoacoustic topography through an ergodic relay of optical absorption in vivo</title>
-      <link>https://yzhang34.github.io/publication/j14-2021-nprot/</link>
+      <link>https://boltslab.github.io/publication/j14-2021-nprot/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j14-2021-nprot/</guid>
+      <guid>https://boltslab.github.io/publication/j14-2021-nprot/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

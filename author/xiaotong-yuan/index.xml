@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaotong Yuan | BOLTS @ CU Boulder</title>
-    <link>https://yzhang34.github.io/author/xiaotong-yuan/</link>
-      <atom:link href="https://yzhang34.github.io/author/xiaotong-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://boltslab.github.io/author/xiaotong-yuan/</link>
+      <atom:link href="https://boltslab.github.io/author/xiaotong-yuan/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaotong Yuan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Contents © 2025 Yide Zhang </copyright><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yzhang34.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
+      <url>https://boltslab.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
       <title>Xiaotong Yuan</title>
-      <link>https://yzhang34.github.io/author/xiaotong-yuan/</link>
+      <link>https://boltslab.github.io/author/xiaotong-yuan/</link>
     </image>
     
     <item>
       <title>Convolutional neural network denoising in fluorescence lifetime imaging microscopy (FLIM)</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c19-2021-pw3/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c19-2021-pw3/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c19-2021-pw3/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c19-2021-pw3/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -37,9 +37,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Deep learning-based super-resolution fluorescence microscopy on small datasets</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c18-2021-pw2/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c18-2021-pw2/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c18-2021-pw2/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c18-2021-pw2/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -60,9 +60,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Overcoming the fundamental limitation of frequency-domain fluorescence lifetime imaging microscopy spatial resolution</title>
-      <link>https://yzhang34.github.io/unused/unused-publication/c17-2021-pw1/</link>
+      <link>https://boltslab.github.io/unused/unused-publication/c17-2021-pw1/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/unused/unused-publication/c17-2021-pw1/</guid>
+      <guid>https://boltslab.github.io/unused/unused-publication/c17-2021-pw1/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -83,9 +83,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Machine learning for faster and smarter fluorescence lifetime imaging microscopy</title>
-      <link>https://yzhang34.github.io/publication/j13-2020-jphys/</link>
+      <link>https://boltslab.github.io/publication/j13-2020-jphys/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j13-2020-jphys/</guid>
+      <guid>https://boltslab.github.io/publication/j13-2020-jphys/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -104,9 +104,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Resolution enhancement of transmission electron microscopy by super-resolution radial fluctuations</title>
-      <link>https://yzhang34.github.io/publication/j12-2020-apl/</link>
+      <link>https://boltslab.github.io/publication/j12-2020-apl/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j12-2020-apl/</guid>
+      <guid>https://boltslab.github.io/publication/j12-2020-apl/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

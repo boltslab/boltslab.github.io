@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phase imaging | BOLTS @ CU Boulder</title>
-    <link>https://yzhang34.github.io/tag/phase-imaging/</link>
-      <atom:link href="https://yzhang34.github.io/tag/phase-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://boltslab.github.io/tag/phase-imaging/</link>
+      <atom:link href="https://boltslab.github.io/tag/phase-imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Phase imaging</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Contents © 2025 Yide Zhang </copyright><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yzhang34.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
+      <url>https://boltslab.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
       <title>Phase imaging</title>
-      <link>https://yzhang34.github.io/tag/phase-imaging/</link>
+      <link>https://boltslab.github.io/tag/phase-imaging/</link>
     </image>
     
     <item>
       <title>Ultrafast phase imaging of propagating current flows in myelinated axons and electromagnetic pulses in dielectrics</title>
-      <link>https://yzhang34.github.io/publication/c23-2023-pw3/</link>
+      <link>https://boltslab.github.io/publication/c23-2023-pw3/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/c23-2023-pw3/</guid>
+      <guid>https://boltslab.github.io/publication/c23-2023-pw3/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -37,9 +37,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Ultrafast and hypersensitive phase imaging of propagating internodal current flows in myelinated axons and electromagnetic pulses in dielectrics</title>
-      <link>https://yzhang34.github.io/publication/j17-2022-nc/</link>
+      <link>https://boltslab.github.io/publication/j17-2022-nc/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://yzhang34.github.io/publication/j17-2022-nc/</guid>
+      <guid>https://boltslab.github.io/publication/j17-2022-nc/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
