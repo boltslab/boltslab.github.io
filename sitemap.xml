@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://boltslab.github.io/author/yide-zhang/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://boltslab.github.io/courses/example/ecen5006/</loc>
     <lastmod>2025-06-03T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://boltslab.github.io/author/jacob-stewart/</loc>
+  </url><url>
+    <loc>https://boltslab.github.io/author/qingye-hu/</loc>
+  </url><url>
+    <loc>https://boltslab.github.io/author/hengyue-zhu/</loc>
+  </url><url>
+    <loc>https://boltslab.github.io/author/souparna-basu/</loc>
+  </url><url>
+    <loc>https://boltslab.github.io/author/jeerakit-kanokthipphayakun/</loc>
   </url><url>
     <loc>https://boltslab.github.io/publication-type/2/</loc>
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>
@@ -78,9 +91,6 @@
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boltslab.github.io/author/xin-tong/</loc>
-    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boltslab.github.io/author/yide-zhang/</loc>
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boltslab.github.io/author/yilin-luo/</loc>
@@ -758,11 +768,5 @@
     <loc>https://boltslab.github.io/author/</loc>
   </url><url>
     <loc>https://boltslab.github.io/categories/</loc>
-  </url><url>
-    <loc>https://boltslab.github.io/author/jacob-stewart/</loc>
-  </url><url>
-    <loc>https://boltslab.github.io/author/jeerakit-kanokthipphayakun/</loc>
-  </url><url>
-    <loc>https://boltslab.github.io/author/souparna-basu/</loc>
   </url>
 </urlset>
