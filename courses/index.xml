@@ -5,7 +5,7 @@
     <link>https://boltslab.github.io/courses/</link>
       <atom:link href="https://boltslab.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Contents © 2025 Boulder Optical Laboratory for Translational Science (BOLTS) </copyright><lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Contents © 2026 Boulder Optical Laboratory for Translational Science (BOLTS) </copyright><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://boltslab.github.io/images/icon_hu4262e56793aeaff45d82d15e29408a30_246501_512x512_fill_lanczos_center_2.png</url>
       <title>Courses</title>
@@ -24,6 +24,21 @@
 &lt;strong&gt;Instruction Mode:&lt;/strong&gt; In Person&lt;br&gt;
 &lt;strong&gt;Session:&lt;/strong&gt; Boulder Main Campus Semester&lt;br&gt;
 &lt;strong&gt;Dates:&lt;/strong&gt; 2025-08-21 through 2025-12-05&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BMEN 3030: Bioinstrumentation</title>
+      <link>https://boltslab.github.io/courses/example/bmen3030/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>https://boltslab.github.io/courses/example/bmen3030/</guid>
+      <description>&lt;p&gt;This course will provide an overview of instrumentation systems used in clinical medicine and biomedical research. Systems for measuring biologic signals will be discussed including biopotentials, stress and strain, pressure, temperature, and optical properties to interpret data from living systems. There will be applications to engineering design, including a semester-long design project that incorporates the interactions between living and non-living systems. There will also be discussion of ethical and regulatory issues related to bioinstrumentation. Recommended restriction: for students in sixth semester of Biomedical Engineering curriculum or higher.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Credit Hours:&lt;/strong&gt; 4&lt;br&gt;
+&lt;strong&gt;Campus:&lt;/strong&gt; Boulder Main Campus&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Boulder Main Campus&lt;br&gt;
+&lt;strong&gt;Instruction Mode:&lt;/strong&gt; In Person&lt;br&gt;
+&lt;strong&gt;Session:&lt;/strong&gt; Boulder Main Campus Semester&lt;br&gt;
+&lt;strong&gt;Dates:&lt;/strong&gt; 2026-01-08 through 2026-04-24&lt;/p&gt;
 </description>
     </item>
     
