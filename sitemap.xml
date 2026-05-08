@@ -5,13 +5,7 @@
     <loc>https://boltslab.github.io/author/yide-zhang/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boltslab.github.io/courses/example/ecen5006/</loc>
-    <lastmod>2025-06-03T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://boltslab.github.io/author/jacob-stewart/</loc>
-  </url><url>
-    <loc>https://boltslab.github.io/courses/example/bmen3030/</loc>
-    <lastmod>2026-01-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://boltslab.github.io/author/hengyue-zhu/</loc>
   </url><url>
@@ -25,13 +19,19 @@
   </url><url>
     <loc>https://boltslab.github.io/author/jonathan-knee/</loc>
   </url><url>
+    <loc>https://boltslab.github.io/courses/example/3_ecen40065006/</loc>
+    <lastmod>2026-05-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://boltslab.github.io/</loc>
+    <lastmod>2026-05-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://boltslab.github.io/courses/</loc>
+    <lastmod>2026-05-08T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://boltslab.github.io/publication-type/2/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boltslab.github.io/authors/</loc>
-    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://boltslab.github.io/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://boltslab.github.io/tag/deep-learning/</loc>
@@ -88,7 +88,7 @@
     <loc>https://boltslab.github.io/author/yushun-zeng/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://boltslab.github.io/courses/</loc>
+    <loc>https://boltslab.github.io/courses/example/2_bmen3030/</loc>
     <lastmod>2026-01-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://boltslab.github.io/author/geng-ku/</loc>
@@ -174,6 +174,9 @@
   </url><url>
     <loc>https://boltslab.github.io/author/xin-tong/</loc>
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://boltslab.github.io/courses/example/1_ecen5006/</loc>
+    <lastmod>2025-06-03T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://boltslab.github.io/author/adam-le-da-zerda/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
