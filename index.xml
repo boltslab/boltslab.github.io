@@ -1860,5 +1860,45 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 </description>
     </item>
     
+    <item>
+      <title>Gallery</title>
+      <link>https://boltslab.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://boltslab.github.io/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://boltslab.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://boltslab.github.io/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://boltslab.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://boltslab.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://boltslab.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://boltslab.github.io/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://boltslab.github.io/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://boltslab.github.io/team/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
